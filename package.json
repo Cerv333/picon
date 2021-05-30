@@ -1,0 +1,27 @@
+{
+  "name": "@picon/core",
+  "version": "0.0.0",
+  "description": "Javascript state management framework",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerv333/picon.git"
+  },
+  "author": {
+    "name": "Michal Bartl",
+    "email": "michal.bartl@gmail.com"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Cerv333/picon/issues"
+  },
+  "homepage": "https://github.com/Cerv333/picon#readme",
+  "dependencies": {}
+}
